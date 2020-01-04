@@ -30,7 +30,7 @@ The list includes electives and general requirements.
  - Principles of Programming Languages CSCI 3155
  - Intro to Virtual Reality CSCI 4830
  - Geography of the Former Soviet Union GEOG 3882
- - Electronic Media HUMN 3092
+ - Electronic Media HUMN 3093
  - Object-Oriented Programming CSCI 3010
  - Cognitive Science CSCI 3702
  - GIS for Geologists GEOL 3050
